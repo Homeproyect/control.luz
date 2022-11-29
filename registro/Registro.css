@@ -1,0 +1,45 @@
+  body {
+            background-image:url(../img/tec1.jpg) ;
+            background-size: cover;
+        background-repeat:no-repeat ;
+        background-position: center;
+        background-attachment:fixed;
+        }
+        input{
+            text-align:center;
+            text:border;
+            background:transparent;
+            color:white;
+            
+            
+            
+
+        }
+        #uno::placeholder{
+            color:white;
+            border:border;
+        }
+        h1{
+            color:white;
+            text-shadow:5px 5px 4px black;
+        }
+        img{    
+            
+            
+            
+            width:20px ;
+            height:20px ;
+            position:relative;
+            top:4 ;
+            right:220 ;
+            color:white;
+        }
+        #tabla{
+        position: relative;
+        top: 50px;
+            background:#0f5b5b;
+            border-radius: 7%;
+            width: 250px;
+            height: 350px;
+        }
+        
