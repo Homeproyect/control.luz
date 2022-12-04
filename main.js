@@ -6,9 +6,10 @@ function go (){
    
   
    
-      if(usuario=='Carlos' && contraseña== '1234') {
+      if(usuario=='Carlos' && contraseña== '1234')
+ {
        
-     location="onoff.html";
+     Window.location.href="onoff.html";
       
       }
       
