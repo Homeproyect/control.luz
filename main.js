@@ -8,7 +8,7 @@ function go (){
    
       if(usuario=='Carlos' && contraseña== '1234') {
        
-     location="Onoff/onoff.html";
+     location="registro/registro.html";
       
       }
       
