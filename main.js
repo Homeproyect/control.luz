@@ -8,7 +8,7 @@ function go (){
    
       if(usuario=='Carlos' && contraseña== '1234') {
        
-     Windows.location("on off/onoff.html");
+     Windows.location=("on off/onoff.html");
       
       }
       
